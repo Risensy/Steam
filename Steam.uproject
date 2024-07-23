@@ -47,7 +47,7 @@
 		},
 		{
 			"Name": "OnlineSubsystemNull",
-			"Enabled": false
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
