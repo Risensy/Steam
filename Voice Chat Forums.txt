@@ -1,0 +1,13 @@
+Voice audio settings - https://forums.unrealengine.com/t/why-is-my-mic-volume-extemely-low/472329/8?u=risensyofficial
+
+Voice very quiet with poor quality audio - https://forums.unrealengine.com/t/voiptalker-mic-pickup-very-quiet-with-poor-quality-audio-playback-4-26/211239/3?u=risensyofficial
+
+The solution that I initially chose, but then adapted and optimized for the final result that I showed in the video - https://forums.unrealengine.com/t/voice-chat-is-not-attenuating/1279745?u=risensyofficial
+
+VOIP instability in OSS Steam - https://forums.unrealengine.com/t/voip-unstable-on-steam-network-saturated/372459/15?u=risensyofficial
+
+VOIP Game Crash When Player Kicks - https://forums.unrealengine.com/t/voip-crashes-game-if-player-is-kicked-by-server/485596?u=risensyofficial
+
+Lag, distortion in VOIP in OSS Steam - https://forums.unrealengine.com/t/state-of-voice-chat-using-the-steam-subsystem/130385?u=risensyofficial
+
+Message that functions such as Remote Talker and others where the word "Remote" is present require another computer - https://forums.unrealengine.com/t/advanced-sessions-plugin/30020/2022?u=risensyofficial

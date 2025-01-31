@@ -7,7 +7,10 @@
 		{
 			"Name": "Steam",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	],
 	"Plugins": [
@@ -47,6 +50,10 @@
 		},
 		{
 			"Name": "OnlineSubsystemNull",
+			"Enabled": true
+		},
+		{
+			"Name": "SoundUtilities",
 			"Enabled": true
 		}
 	],
