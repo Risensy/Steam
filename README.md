@@ -7,4 +7,6 @@ Discord Server - https://discord.gg/AyPUwKdbTK
 
 Steam Shipping Build [video](https://youtu.be/HoVKGNqyTsg)
 
+Advanced Sessions Plugin by mordentral [link](https://forums.unrealengine.com/t/advanced-sessions-plugin/30020)
+
 Developed with Unreal Engine 5
