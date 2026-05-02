@@ -1,5 +1,5 @@
 # Steam
-An example project with OSS Steam & Steam Sockets, made on Blueprints.
+An example project with OSS Steam & Steam Sockets, and Voice Chat support, made on Blueprints.
 
 [Setting Up Online Subsystem Steam in Unreal Engine](https://dev.epicgames.com/community/learning/tutorials/dV57/setting-up-online-subsystem-steam-in-unreal-engine)
 
