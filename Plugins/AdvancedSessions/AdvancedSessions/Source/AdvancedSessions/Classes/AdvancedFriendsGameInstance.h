@@ -44,6 +44,16 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = AdvancedVoiceInterface)
 	bool bEnableTalkingStatusDelegate;
 
+	// If true we will auto join a session we have accepted in the overlay.
+	// This can get in the way of Beacon Sessions, you may want to disable it.
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = AdvancedFriendsInterface)
+	bool bAutoJoinSessionOnAcceptedUserInviteReceived = false;
+
+	// If true we will auto travel to a game session when an invite is received.
+	// This can get in the way of Beacon Sessions, you may want to disable it.
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = AdvancedFriendsInterface)
+	bool bAutoTravelOnAcceptedUserInviteReceived = false;
+
 	//virtual void PostLoad() override;
 	virtual void Shutdown() override;
 	virtual void Init() override;

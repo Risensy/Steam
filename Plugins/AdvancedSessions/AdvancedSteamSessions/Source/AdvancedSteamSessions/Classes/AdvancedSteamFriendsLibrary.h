@@ -42,7 +42,7 @@ MSVC_PRAGMA(warning(pop))
 #endif	// USING_CODE_ANALYSIS
 
 #include <steam/isteamapps.h>
-#include <steam/isteamapplist.h>
+//#include <steam/isteamapplist.h>
 //#include <OnlineSubsystemSteamTypes.h>
 #pragma pop_macro("ARRAY_COUNT")
 
@@ -337,8 +337,8 @@ public:
 	static bool RequestSteamFriendInfo(const FBPUniqueNetId UniqueNetId, bool bRequireNameOnly = false);
 
 	// Opens the steam overlay to go to the specified user dialog
-	UFUNCTION(BlueprintCallable, Category = "Online|AdvancedFriends|SteamAPI")
-		static bool OpenSteamUserOverlay(const FBPUniqueNetId UniqueNetId, ESteamUserOverlayType DialogType);
+	UFUNCTION(BlueprintCallable, Category = "Online|AdvancedFriends|SteamAPI", meta = (WorldContext = "WorldContextObject"))
+		static bool OpenSteamUserOverlay(UObject* WorldContextObject, const FBPUniqueNetId UniqueNetId, ESteamUserOverlayType DialogType);
 	
 	// Returns if the steam overlay is currently active (this can return false during initial overlay hooking)
 	UFUNCTION(BlueprintPure, Category = "Online|AdvancedFriends|SteamAPI")
