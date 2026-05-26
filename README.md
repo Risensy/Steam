@@ -11,6 +11,6 @@ Advanced Sessions Plugin by mordentral [link](https://forums.unrealengine.com/t/
 
 Discord Server - https://discord.gg/AyPUwKdbTK
 
-[My playlist on YouTube](https://youtube.com/playlist?list=PLcZ3W8mXaNNBdHRckmY98YEi3-vUGJNsk&si=R1QrK3mkiecVvluB) about setting up Online Subsystem Steam And Steam-related stuff
+[My playlist on YouTube](https://youtube.com/playlist?list=PLcZ3W8mXaNNBdHRckmY98YEi3-vUGJNsk&si=R1QrK3mkiecVvluB) about setting up Online Subsystem Steam and Steam-related stuff
 
 Developed with Unreal Engine 5
