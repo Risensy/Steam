@@ -1,5 +1,5 @@
 # Steam
-An example project with OSS Steam & Steam Sockets, and Voice Chat support, made on Blueprints.
+An example project with Online Subsystem Steam & Steam Sockets, and Voice Chat support, made on Blueprints.
 
 **To successfully compile the project, you need a [configured Visual Studio (or Rider).](https://dev.epicgames.com/documentation/unreal-engine/setting-up-visual-studio-development-environment-for-cplusplus-projects-in-unreal-engine)**
 
