@@ -26,15 +26,15 @@
 			"Enabled": true
 		},
 		{
+			"Name": "SoundUtilities",
+			"Enabled": true
+		},
+		{
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
 		},
 		{
 			"Name": "SteamSockets",
-			"Enabled": true
-		},
-		{
-			"Name": "SoundUtilities",
 			"Enabled": true
 		}
 	]
