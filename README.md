@@ -9,7 +9,7 @@ An example project with Online Subsystem Steam & Steam Sockets, and Voice Chat s
 
 Advanced Sessions Plugin by mordentral [link](https://forums.unrealengine.com/t/advanced-sessions-plugin/30020)
 
-Discord Server - https://discord.gg/AyPUwKdbTK
+My Discord Server - https://discord.gg/AyPUwKdbTK
 
 [My playlist on YouTube](https://youtube.com/playlist?list=PLcZ3W8mXaNNBdHRckmY98YEi3-vUGJNsk&si=R1QrK3mkiecVvluB) about setting up Online Subsystem Steam and Steam-related stuff
 
